@@ -1,162 +1,1128 @@
-2022-12-04 21:18:41,826 - INFO - sql connection success
-2022-12-04 21:18:41,827 - INFO - sql connection closed
-2022-12-04 21:18:43,215 - INFO - sql query excecuted
-2022-12-04 21:18:43,216 - INFO - sql connection closed
-2022-12-04 21:18:45,614 - INFO - sql connection closed
-2022-12-04 21:18:46,308 - INFO - sql connection closed
-2022-12-04 21:18:46,945 - INFO - sql connection closed
-2022-12-04 21:18:47,710 - INFO - sql connection closed
-2022-12-04 21:18:48,341 - INFO - sql connection closed
-2022-12-04 21:18:48,982 - INFO - sql connection closed
-2022-12-04 21:18:49,616 - INFO - sql connection closed
-2022-12-04 21:18:50,293 - INFO - sql connection closed
-2022-12-04 21:18:50,933 - INFO - sql connection closed
-2022-12-04 21:18:51,571 - INFO - sql connection closed
-2022-12-04 21:18:52,214 - INFO - sql connection closed
-2022-12-04 21:18:52,859 - INFO - sql connection closed
-2022-12-04 21:18:53,542 - INFO - sql connection closed
-2022-12-04 21:18:54,179 - INFO - sql connection closed
-2022-12-04 21:18:54,819 - INFO - sql connection closed
-2022-12-04 21:18:55,452 - INFO - sql connection closed
-2022-12-04 21:18:56,084 - INFO - sql connection closed
-2022-12-04 21:18:56,744 - INFO - sql connection closed
-2022-12-04 21:18:57,390 - INFO - sql connection closed
-2022-12-04 21:18:58,017 - INFO - sql connection closed
-2022-12-04 21:18:58,713 - INFO - sql connection closed
-2022-12-04 21:18:59,351 - INFO - sql connection closed
-2022-12-04 21:18:59,976 - INFO - sql connection closed
-2022-12-04 21:19:00,633 - INFO - sql connection closed
-2022-12-04 21:19:02,130 - INFO - sql connection closed
-2022-12-04 21:19:02,767 - INFO - sql connection closed
-2022-12-04 21:19:03,397 - INFO - sql connection closed
-2022-12-04 21:19:04,034 - INFO - sql connection closed
-2022-12-04 21:19:04,675 - INFO - sql connection closed
-2022-12-04 21:19:05,296 - INFO - sql connection closed
-2022-12-04 21:19:05,960 - INFO - sql connection closed
-2022-12-04 21:19:06,717 - INFO - sql connection closed
-2022-12-04 21:19:07,338 - INFO - sql connection closed
-2022-12-04 21:19:07,967 - INFO - sql connection closed
-2022-12-04 21:19:08,609 - INFO - sql connection closed
-2022-12-04 21:19:09,227 - INFO - sql connection closed
-2022-12-04 21:19:09,867 - INFO - sql connection closed
-2022-12-04 21:19:10,583 - INFO - sql connection closed
-2022-12-04 21:19:11,236 - INFO - sql connection closed
-2022-12-04 21:19:12,041 - INFO - sql connection closed
-2022-12-04 21:19:12,682 - INFO - sql connection closed
-2022-12-04 21:19:13,352 - INFO - sql connection closed
-2022-12-04 21:19:13,986 - INFO - sql connection closed
-2022-12-04 21:19:14,624 - INFO - sql connection closed
-2022-12-04 21:19:15,254 - INFO - sql connection closed
-2022-12-04 21:19:15,930 - INFO - sql connection closed
-2022-12-04 21:19:16,580 - INFO - sql connection closed
-2022-12-04 21:19:17,234 - INFO - sql connection closed
-2022-12-04 21:19:17,862 - INFO - sql connection closed
-2022-12-04 21:19:18,535 - INFO - sql connection closed
-2022-12-04 21:19:19,246 - INFO - sql connection closed
-2022-12-04 21:19:19,868 - INFO - sql connection closed
-2022-12-04 21:19:20,497 - INFO - sql connection closed
-2022-12-04 21:19:21,161 - INFO - sql connection closed
-2022-12-04 21:19:21,796 - INFO - sql connection closed
-2022-12-04 21:19:22,454 - INFO - sql connection closed
-2022-12-04 21:19:23,089 - INFO - sql connection closed
-2022-12-04 21:19:23,729 - INFO - sql connection closed
-2022-12-04 21:19:24,413 - INFO - sql connection closed
-2022-12-04 21:19:25,032 - INFO - sql connection closed
-2022-12-04 21:19:25,673 - INFO - sql connection closed
-2022-12-04 21:19:26,438 - INFO - sql connection closed
-2022-12-04 21:19:27,136 - INFO - sql connection closed
-2022-12-04 21:19:27,777 - INFO - sql connection closed
-2022-12-04 21:19:28,593 - INFO - sql connection closed
-2022-12-04 21:19:29,230 - INFO - sql connection closed
-2022-12-04 21:19:29,876 - INFO - sql connection closed
-2022-12-04 21:19:30,525 - INFO - sql connection closed
-2022-12-04 21:19:31,324 - INFO - sql connection closed
-2022-12-04 21:19:31,981 - INFO - sql connection closed
-2022-12-04 21:19:32,752 - INFO - sql connection closed
-2022-12-04 21:19:33,399 - INFO - sql connection closed
-2022-12-04 21:19:34,046 - INFO - sql connection closed
-2022-12-04 21:19:34,747 - INFO - sql connection closed
-2022-12-04 21:19:35,390 - INFO - sql connection closed
-2022-12-04 21:19:36,031 - INFO - sql connection closed
-2022-12-04 21:19:36,655 - INFO - sql connection closed
-2022-12-04 21:19:37,291 - INFO - sql connection closed
-2022-12-04 21:19:37,927 - INFO - sql connection closed
-2022-12-04 21:19:38,567 - INFO - sql connection closed
-2022-12-04 21:19:39,192 - INFO - sql connection closed
-2022-12-04 21:19:39,834 - INFO - sql connection closed
-2022-12-04 21:19:40,541 - INFO - sql connection closed
-2022-12-04 21:19:41,210 - INFO - sql connection closed
-2022-12-04 21:19:41,851 - INFO - sql connection closed
-2022-12-04 21:19:42,660 - INFO - sql connection closed
-2022-12-04 21:19:43,293 - INFO - sql connection closed
-2022-12-04 21:19:44,010 - INFO - sql connection closed
-2022-12-04 21:19:44,631 - INFO - sql connection closed
-2022-12-04 21:19:45,272 - INFO - sql connection closed
-2022-12-04 21:19:45,893 - INFO - sql connection closed
-2022-12-04 21:19:46,528 - INFO - sql connection closed
-2022-12-04 21:19:47,176 - INFO - sql connection closed
-2022-12-04 21:19:47,818 - INFO - sql connection closed
-2022-12-04 21:19:48,457 - INFO - sql connection closed
-2022-12-04 21:19:49,146 - INFO - sql connection closed
-2022-12-04 21:19:49,781 - INFO - sql connection closed
-2022-12-04 21:19:50,722 - INFO - sql connection closed
-2022-12-04 21:19:51,473 - INFO - sql connection closed
-2022-12-04 21:19:52,108 - INFO - sql connection closed
-2022-12-04 21:19:52,737 - INFO - sql connection closed
-2022-12-04 21:19:53,361 - INFO - sql connection closed
-2022-12-04 21:19:53,981 - INFO - sql connection closed
-2022-12-04 21:19:54,603 - INFO - sql connection closed
-2022-12-04 21:19:55,253 - INFO - sql connection closed
-2022-12-04 21:19:55,973 - INFO - sql connection closed
-2022-12-04 21:19:56,622 - INFO - sql connection closed
-2022-12-04 21:19:57,270 - INFO - sql connection closed
-2022-12-04 21:19:57,925 - INFO - sql connection closed
-2022-12-04 21:19:58,565 - INFO - sql connection closed
-2022-12-04 21:19:59,206 - INFO - sql connection closed
-2022-12-04 21:19:59,974 - INFO - sql connection closed
-2022-12-04 21:20:00,612 - INFO - sql connection closed
-2022-12-04 21:20:01,231 - INFO - sql connection closed
-2022-12-04 21:20:01,867 - INFO - sql connection closed
-2022-12-04 21:20:02,613 - INFO - sql connection closed
-2022-12-04 21:20:03,247 - INFO - sql connection closed
-2022-12-04 21:20:03,943 - INFO - sql connection closed
-2022-12-04 21:20:04,733 - INFO - sql connection closed
-2022-12-04 21:20:05,402 - INFO - sql connection closed
-2022-12-04 21:20:06,044 - INFO - sql connection closed
-2022-12-04 21:20:06,676 - INFO - sql connection closed
-2022-12-04 21:20:07,296 - INFO - sql connection closed
-2022-12-04 21:20:07,939 - INFO - sql connection closed
-2022-12-04 21:20:08,711 - INFO - sql connection closed
-2022-12-04 21:20:09,350 - INFO - sql connection closed
-2022-12-04 21:20:10,034 - INFO - sql connection closed
-2022-12-04 21:20:10,719 - INFO - sql connection closed
-2022-12-04 21:20:11,356 - INFO - sql connection closed
-2022-12-04 21:20:12,102 - INFO - sql connection closed
-2022-12-04 21:20:12,890 - INFO - sql connection closed
-2022-12-04 21:20:13,578 - INFO - sql connection closed
-2022-12-04 21:20:14,228 - INFO - sql connection closed
-2022-12-04 21:20:14,868 - INFO - sql connection closed
-2022-12-04 21:20:15,493 - INFO - sql connection closed
-2022-12-04 21:20:16,291 - INFO - sql connection closed
-2022-12-04 21:20:18,667 - INFO - sql connection closed
-2022-12-04 21:20:19,312 - INFO - sql connection closed
-2022-12-04 21:20:19,965 - INFO - sql connection closed
-2022-12-04 21:20:20,730 - INFO - sql connection closed
-2022-12-04 21:20:21,401 - INFO - sql connection closed
-2022-12-04 21:20:22,034 - INFO - sql connection closed
-2022-12-04 21:20:22,689 - INFO - sql connection closed
-2022-12-04 21:20:23,320 - INFO - sql connection closed
-2022-12-04 21:20:24,662 - INFO - sql connection closed
-2022-12-04 21:20:25,332 - INFO - sql connection closed
-2022-12-04 21:20:25,981 - INFO - sql connection closed
-2022-12-04 21:20:26,603 - INFO - sql connection closed
-2022-12-04 21:20:27,289 - INFO - sql connection closed
-2022-12-04 21:20:27,924 - INFO - sql connection closed
-2022-12-04 21:20:28,594 - INFO - sql connection closed
-2022-12-04 21:20:29,239 - INFO - sql connection closed
-2022-12-04 21:20:29,892 - INFO - sql connection closed
-2022-12-04 21:20:30,607 - INFO - sql connection closed
-2022-12-04 21:20:31,363 - INFO - sql connection closed
-2022-12-04 21:20:32,005 - INFO - sql connection closed
-2022-12-04 21:20:32,639 - INFO - sql connection closed
-2022-12-04 21:20:33,274 - INFO - sql connection closed
+2022-12-04 21:59:01,826 - INFO - API connection OK
+2022-12-04 21:59:03,181 - INFO - sql query excecuted
+2022-12-04 21:59:03,181 - INFO - sql connection closed
+2022-12-04 21:59:04,476 - INFO - Data inserted TUN - Tunisia - Ariana
+2022-12-04 21:59:04,476 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:04,476 - INFO - sql connection closed
+2022-12-04 21:59:05,131 - INFO - Data inserted TUN - Tunisia - Ben Arous
+2022-12-04 21:59:05,131 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:05,131 - INFO - sql connection closed
+2022-12-04 21:59:05,771 - INFO - Data inserted TUN - Tunisia - Bizerte
+2022-12-04 21:59:05,772 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:05,772 - INFO - sql connection closed
+2022-12-04 21:59:06,398 - INFO - Data inserted TUN - Tunisia - Beja
+2022-12-04 21:59:06,399 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:06,399 - INFO - sql connection closed
+2022-12-04 21:59:07,043 - INFO - Data inserted TUN - Tunisia - Gabes
+2022-12-04 21:59:07,044 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:07,044 - INFO - sql connection closed
+2022-12-04 21:59:07,687 - INFO - Data inserted TUN - Tunisia - Gafsa
+2022-12-04 21:59:07,688 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:07,688 - INFO - sql connection closed
+2022-12-04 21:59:08,386 - INFO - Data inserted TUN - Tunisia - Jendouba
+2022-12-04 21:59:08,387 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:08,387 - INFO - sql connection closed
+2022-12-04 21:59:09,032 - INFO - Data inserted TUN - Tunisia - Kairouan
+2022-12-04 21:59:09,032 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:09,032 - INFO - sql connection closed
+2022-12-04 21:59:09,748 - INFO - Data inserted TUN - Tunisia - Kasserine
+2022-12-04 21:59:09,748 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:09,748 - INFO - sql connection closed
+2022-12-04 21:59:10,392 - INFO - Data inserted TUN - Tunisia - Kebili
+2022-12-04 21:59:10,393 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:10,393 - INFO - sql connection closed
+2022-12-04 21:59:11,075 - INFO - Data inserted TUN - Tunisia - Le Kef
+2022-12-04 21:59:11,075 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:11,075 - INFO - sql connection closed
+2022-12-04 21:59:11,727 - INFO - Data inserted TUN - Tunisia - Mahdia
+2022-12-04 21:59:11,728 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:11,728 - INFO - sql connection closed
+2022-12-04 21:59:12,378 - INFO - Data inserted TUN - Tunisia - Manouba
+2022-12-04 21:59:12,378 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:12,378 - INFO - sql connection closed
+2022-12-04 21:59:13,028 - INFO - Data inserted TUN - Tunisia - Monastir
+2022-12-04 21:59:13,028 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:13,028 - INFO - sql connection closed
+2022-12-04 21:59:13,668 - INFO - Data inserted TUN - Tunisia - Medenine
+2022-12-04 21:59:13,669 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:13,669 - INFO - sql connection closed
+2022-12-04 21:59:14,436 - INFO - Data inserted TUN - Tunisia - Nabeul
+2022-12-04 21:59:14,437 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:14,437 - INFO - sql connection closed
+2022-12-04 21:59:15,074 - INFO - Data inserted TUN - Tunisia - Sfax
+2022-12-04 21:59:15,075 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:15,075 - INFO - sql connection closed
+2022-12-04 21:59:15,890 - INFO - Data inserted TUN - Tunisia - Sidi Bouz
+2022-12-04 21:59:15,890 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:15,890 - INFO - sql connection closed
+2022-12-04 21:59:16,571 - INFO - Data inserted TUN - Tunisia - Siliana
+2022-12-04 21:59:16,571 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:16,572 - INFO - sql connection closed
+2022-12-04 21:59:17,194 - INFO - Data inserted TUN - Tunisia - Sousse
+2022-12-04 21:59:17,194 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:17,195 - INFO - sql connection closed
+2022-12-04 21:59:17,886 - INFO - Data inserted TUN - Tunisia - Tataouine
+2022-12-04 21:59:17,887 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:17,887 - INFO - sql connection closed
+2022-12-04 21:59:18,608 - INFO - Data inserted TUN - Tunisia - Tozeur
+2022-12-04 21:59:18,608 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:18,608 - INFO - sql connection closed
+2022-12-04 21:59:19,423 - INFO - Data inserted TUN - Tunisia - Tunis
+2022-12-04 21:59:19,423 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:19,424 - INFO - sql connection closed
+2022-12-04 21:59:20,508 - INFO - Data inserted TUN - Tunisia - Zaghouan
+2022-12-04 21:59:20,508 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:20,509 - INFO - sql connection closed
+2022-12-04 21:59:22,134 - INFO - Data inserted UGA - Uganda - Abim
+2022-12-04 21:59:22,134 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:22,134 - INFO - sql connection closed
+2022-12-04 21:59:22,760 - INFO - Data inserted UGA - Uganda - Amudat
+2022-12-04 21:59:22,760 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:22,760 - INFO - sql connection closed
+2022-12-04 21:59:23,407 - INFO - Data inserted UGA - Uganda - Amuru
+2022-12-04 21:59:23,407 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:23,407 - INFO - sql connection closed
+2022-12-04 21:59:24,102 - INFO - Data inserted UGA - Uganda - Budaka
+2022-12-04 21:59:24,103 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:24,104 - INFO - sql connection closed
+2022-12-04 21:59:24,753 - INFO - Data inserted UGA - Uganda - Buikwe
+2022-12-04 21:59:24,753 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:24,754 - INFO - sql connection closed
+2022-12-04 21:59:25,389 - INFO - Data inserted UGA - Uganda - Bukomansimbi
+2022-12-04 21:59:25,390 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:25,390 - INFO - sql connection closed
+2022-12-04 21:59:26,146 - INFO - Data inserted UGA - Uganda - Bulambuli
+2022-12-04 21:59:26,146 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:26,146 - INFO - sql connection closed
+2022-12-04 21:59:26,791 - INFO - Data inserted UGA - Uganda - Buliisa
+2022-12-04 21:59:26,791 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:26,792 - INFO - sql connection closed
+2022-12-04 21:59:27,444 - INFO - Data inserted UGA - Uganda - Buyende
+2022-12-04 21:59:27,444 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:27,444 - INFO - sql connection closed
+2022-12-04 21:59:28,069 - INFO - Data inserted UGA - Uganda - Butambala
+2022-12-04 21:59:28,070 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:28,070 - INFO - sql connection closed
+2022-12-04 21:59:28,723 - INFO - Data inserted UGA - Uganda - Kalungu
+2022-12-04 21:59:28,723 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:28,723 - INFO - sql connection closed
+2022-12-04 21:59:29,397 - INFO - Data inserted UGA - Uganda - Sheema
+2022-12-04 21:59:29,398 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:29,398 - INFO - sql connection closed
+2022-12-04 21:59:30,266 - INFO - Data inserted UGA - Uganda - Kole
+2022-12-04 21:59:30,267 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:30,267 - INFO - sql connection closed
+2022-12-04 21:59:30,935 - INFO - Data inserted UGA - Uganda - Kween
+2022-12-04 21:59:30,935 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:30,935 - INFO - sql connection closed
+2022-12-04 21:59:31,587 - INFO - Data inserted UGA - Uganda - Lamwo
+2022-12-04 21:59:31,587 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:31,587 - INFO - sql connection closed
+2022-12-04 21:59:32,320 - INFO - Data inserted UGA - Uganda - Luuka
+2022-12-04 21:59:32,320 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:32,320 - INFO - sql connection closed
+2022-12-04 21:59:33,030 - INFO - Data inserted UGA - Uganda - Namutumba
+2022-12-04 21:59:33,030 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:33,030 - INFO - sql connection closed
+2022-12-04 21:59:33,678 - INFO - Data inserted UGA - Uganda - Napak
+2022-12-04 21:59:33,678 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:33,678 - INFO - sql connection closed
+2022-12-04 21:59:34,337 - INFO - Data inserted UGA - Uganda - Ngora
+2022-12-04 21:59:34,337 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:34,337 - INFO - sql connection closed
+2022-12-04 21:59:35,100 - INFO - Data inserted UGA - Uganda - Buhweju
+2022-12-04 21:59:35,101 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:35,101 - INFO - sql connection closed
+2022-12-04 21:59:35,797 - INFO - Data inserted UGA - Uganda - Ntoroko
+2022-12-04 21:59:35,798 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:35,798 - INFO - sql connection closed
+2022-12-04 21:59:36,483 - INFO - Data inserted UGA - Uganda - Maracha
+2022-12-04 21:59:36,484 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:36,484 - INFO - sql connection closed
+2022-12-04 21:59:37,131 - INFO - Data inserted UGA - Uganda - Otuke
+2022-12-04 21:59:37,132 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:37,132 - INFO - sql connection closed
+2022-12-04 21:59:37,788 - INFO - Data inserted UGA - Uganda - Oyam
+2022-12-04 21:59:37,789 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:37,789 - INFO - sql connection closed
+2022-12-04 21:59:38,445 - INFO - Data inserted UGA - Uganda - Rubirizi
+2022-12-04 21:59:38,445 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:38,445 - INFO - sql connection closed
+2022-12-04 21:59:39,092 - INFO - Data inserted UGA - Uganda - Zombo
+2022-12-04 21:59:39,092 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:39,092 - INFO - sql connection closed
+2022-12-04 21:59:39,746 - INFO - Data inserted UGA - Uganda - Bukedea
+2022-12-04 21:59:39,746 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:39,747 - INFO - sql connection closed
+2022-12-04 21:59:40,410 - INFO - Data inserted UGA - Uganda - Dokolo
+2022-12-04 21:59:40,411 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:40,411 - INFO - sql connection closed
+2022-12-04 21:59:41,043 - INFO - Data inserted UGA - Uganda - Agago
+2022-12-04 21:59:41,043 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:41,043 - INFO - sql connection closed
+2022-12-04 21:59:41,685 - INFO - Data inserted UGA - Uganda - Alebtong
+2022-12-04 21:59:41,686 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:41,686 - INFO - sql connection closed
+2022-12-04 21:59:42,349 - INFO - Data inserted UGA - Uganda - Bududa
+2022-12-04 21:59:42,349 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:42,350 - INFO - sql connection closed
+2022-12-04 21:59:43,293 - INFO - Data inserted UGA - Uganda - Buvuma
+2022-12-04 21:59:43,293 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:43,294 - INFO - sql connection closed
+2022-12-04 21:59:43,946 - INFO - Data inserted UGA - Uganda - Gomba
+2022-12-04 21:59:43,947 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:43,947 - INFO - sql connection closed
+2022-12-04 21:59:44,588 - INFO - Data inserted UGA - Uganda - Kibuku
+2022-12-04 21:59:44,589 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:44,589 - INFO - sql connection closed
+2022-12-04 21:59:45,226 - INFO - Data inserted UGA - Uganda - Kiryandongo
+2022-12-04 21:59:45,227 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:45,227 - INFO - sql connection closed
+2022-12-04 21:59:45,868 - INFO - Data inserted UGA - Uganda - Kyankwanzi
+2022-12-04 21:59:45,869 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:45,869 - INFO - sql connection closed
+2022-12-04 21:59:46,501 - INFO - Data inserted UGA - Uganda - Mitooma
+2022-12-04 21:59:46,502 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:46,502 - INFO - sql connection closed
+2022-12-04 21:59:47,147 - INFO - Data inserted UGA - Uganda - Kyegegwa
+2022-12-04 21:59:47,147 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:47,148 - INFO - sql connection closed
+2022-12-04 21:59:47,773 - INFO - Data inserted UGA - Uganda - Nwoya
+2022-12-04 21:59:47,775 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:47,775 - INFO - sql connection closed
+2022-12-04 21:59:48,437 - INFO - Data inserted UGA - Uganda - Serere
+2022-12-04 21:59:48,438 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:48,438 - INFO - sql connection closed
+2022-12-04 21:59:49,126 - INFO - Data inserted UGA - Uganda - Lwengo
+2022-12-04 21:59:49,127 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:49,127 - INFO - sql connection closed
+2022-12-04 21:59:50,046 - INFO - Data inserted UGA - Uganda - Namayingo
+2022-12-04 21:59:50,046 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:50,046 - INFO - sql connection closed
+2022-12-04 21:59:50,701 - INFO - Data inserted UGA - Uganda - Lyantonde
+2022-12-04 21:59:50,702 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:50,702 - INFO - sql connection closed
+2022-12-04 21:59:51,343 - INFO - Data inserted UGA - Uganda - Adjumani
+2022-12-04 21:59:51,344 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:51,344 - INFO - sql connection closed
+2022-12-04 21:59:52,161 - INFO - Data inserted UGA - Uganda - Apac
+2022-12-04 21:59:52,161 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:52,161 - INFO - sql connection closed
+2022-12-04 21:59:52,803 - INFO - Data inserted UGA - Uganda - Bugiri
+2022-12-04 21:59:52,803 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:52,803 - INFO - sql connection closed
+2022-12-04 21:59:53,447 - INFO - Data inserted UGA - Uganda - Bundibugyo
+2022-12-04 21:59:53,447 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:53,447 - INFO - sql connection closed
+2022-12-04 21:59:54,113 - INFO - Data inserted UGA - Uganda - Bushenyi
+2022-12-04 21:59:54,113 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:54,114 - INFO - sql connection closed
+2022-12-04 21:59:54,759 - INFO - Data inserted UGA - Uganda - Busia
+2022-12-04 21:59:54,760 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:54,760 - INFO - sql connection closed
+2022-12-04 21:59:55,555 - INFO - Data inserted UGA - Uganda - Gulu
+2022-12-04 21:59:55,555 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:55,555 - INFO - sql connection closed
+2022-12-04 21:59:56,210 - INFO - Data inserted UGA - Uganda - Hoima
+2022-12-04 21:59:56,211 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:56,211 - INFO - sql connection closed
+2022-12-04 21:59:56,850 - INFO - Data inserted UGA - Uganda - Jinja
+2022-12-04 21:59:56,850 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:56,851 - INFO - sql connection closed
+2022-12-04 21:59:57,643 - INFO - Data inserted UGA - Uganda - Kabale
+2022-12-04 21:59:57,644 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:57,644 - INFO - sql connection closed
+2022-12-04 21:59:58,287 - INFO - Data inserted UGA - Uganda - Kalangala
+2022-12-04 21:59:58,287 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:58,288 - INFO - sql connection closed
+2022-12-04 21:59:59,382 - INFO - Data inserted UGA - Uganda - Kasese
+2022-12-04 21:59:59,383 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 21:59:59,384 - INFO - sql connection closed
+2022-12-04 22:00:00,028 - INFO - Data inserted UGA - Uganda - Kibaale
+2022-12-04 22:00:00,028 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:00,028 - INFO - sql connection closed
+2022-12-04 22:00:00,734 - INFO - Data inserted UGA - Uganda - Kiboga
+2022-12-04 22:00:00,734 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:00,734 - INFO - sql connection closed
+2022-12-04 22:00:01,361 - INFO - Data inserted UGA - Uganda - Kisoro
+2022-12-04 22:00:01,362 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:01,362 - INFO - sql connection closed
+2022-12-04 22:00:02,020 - INFO - Data inserted UGA - Uganda - Kumi
+2022-12-04 22:00:02,020 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:02,020 - INFO - sql connection closed
+2022-12-04 22:00:02,794 - INFO - Data inserted UGA - Uganda - Masaka
+2022-12-04 22:00:02,794 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:02,795 - INFO - sql connection closed
+2022-12-04 22:00:03,441 - INFO - Data inserted UGA - Uganda - Moyo
+2022-12-04 22:00:03,441 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:03,442 - INFO - sql connection closed
+2022-12-04 22:00:04,162 - INFO - Data inserted UGA - Uganda - Nebbi
+2022-12-04 22:00:04,162 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:04,162 - INFO - sql connection closed
+2022-12-04 22:00:04,896 - INFO - Data inserted UGA - Uganda - Ntungamo
+2022-12-04 22:00:04,897 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:04,897 - INFO - sql connection closed
+2022-12-04 22:00:05,545 - INFO - Data inserted UGA - Uganda - Pallisa
+2022-12-04 22:00:05,547 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:05,547 - INFO - sql connection closed
+2022-12-04 22:00:06,287 - INFO - Data inserted UGA - Uganda - Rakai
+2022-12-04 22:00:06,287 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:06,287 - INFO - sql connection closed
+2022-12-04 22:00:06,931 - INFO - Data inserted UGA - Uganda - Ssembabule
+2022-12-04 22:00:06,931 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:06,931 - INFO - sql connection closed
+2022-12-04 22:00:07,666 - INFO - Data inserted UGA - Uganda - Iganga
+2022-12-04 22:00:07,667 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:07,667 - INFO - sql connection closed
+2022-12-04 22:00:08,467 - INFO - Data inserted UGA - Uganda - Kabarole
+2022-12-04 22:00:08,468 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:08,468 - INFO - sql connection closed
+2022-12-04 22:00:09,211 - INFO - Data inserted UGA - Uganda - Kaberamaido
+2022-12-04 22:00:09,212 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:09,212 - INFO - sql connection closed
+2022-12-04 22:00:09,854 - INFO - Data inserted UGA - Uganda - Kampala
+2022-12-04 22:00:09,854 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:09,855 - INFO - sql connection closed
+2022-12-04 22:00:10,501 - INFO - Data inserted UGA - Uganda - Kamwenge
+2022-12-04 22:00:10,502 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:10,502 - INFO - sql connection closed
+2022-12-04 22:00:11,358 - INFO - Data inserted UGA - Uganda - Kanungu
+2022-12-04 22:00:11,358 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:11,358 - INFO - sql connection closed
+2022-12-04 22:00:12,267 - INFO - Data inserted UGA - Uganda - Kayunga
+2022-12-04 22:00:12,268 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:12,268 - INFO - sql connection closed
+2022-12-04 22:00:12,917 - INFO - Data inserted UGA - Uganda - Kitgum
+2022-12-04 22:00:12,917 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:12,917 - INFO - sql connection closed
+2022-12-04 22:00:13,574 - INFO - Data inserted UGA - Uganda - Kyenjojo
+2022-12-04 22:00:13,575 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:13,575 - INFO - sql connection closed
+2022-12-04 22:00:14,407 - INFO - Data inserted UGA - Uganda - Masindi
+2022-12-04 22:00:14,408 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:14,408 - INFO - sql connection closed
+2022-12-04 22:00:15,042 - INFO - Data inserted UGA - Uganda - Mayuge
+2022-12-04 22:00:15,043 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:15,043 - INFO - sql connection closed
+2022-12-04 22:00:15,684 - INFO - Data inserted UGA - Uganda - Moroto
+2022-12-04 22:00:15,685 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:15,685 - INFO - sql connection closed
+2022-12-04 22:00:17,546 - INFO - Data inserted UGA - Uganda - Mpigi
+2022-12-04 22:00:17,547 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:17,547 - INFO - sql connection closed
+2022-12-04 22:00:18,324 - INFO - Data inserted UGA - Uganda - Mukono
+2022-12-04 22:00:18,325 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:18,325 - INFO - sql connection closed
+2022-12-04 22:00:18,969 - INFO - Data inserted UGA - Uganda - Nakapiripirit
+2022-12-04 22:00:18,970 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:18,970 - INFO - sql connection closed
+2022-12-04 22:00:20,444 - INFO - Data inserted UGA - Uganda - Nakasongola
+2022-12-04 22:00:20,445 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:20,445 - INFO - sql connection closed
+2022-12-04 22:00:21,211 - INFO - Data inserted UGA - Uganda - Pader
+2022-12-04 22:00:21,212 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:21,212 - INFO - sql connection closed
+2022-12-04 22:00:22,567 - INFO - Data inserted UGA - Uganda - Rukungiri
+2022-12-04 22:00:22,567 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:22,567 - INFO - sql connection closed
+2022-12-04 22:00:23,224 - INFO - Data inserted UGA - Uganda - Sironko
+2022-12-04 22:00:23,224 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:23,224 - INFO - sql connection closed
+2022-12-04 22:00:23,872 - INFO - Data inserted UGA - Uganda - Soroti
+2022-12-04 22:00:23,873 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:23,873 - INFO - sql connection closed
+2022-12-04 22:00:24,509 - INFO - Data inserted UGA - Uganda - Wakiso
+2022-12-04 22:00:24,510 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:24,510 - INFO - sql connection closed
+2022-12-04 22:00:25,225 - INFO - Data inserted UGA - Uganda - Yumbe
+2022-12-04 22:00:25,226 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:25,226 - INFO - sql connection closed
+2022-12-04 22:00:25,871 - INFO - Data inserted UGA - Uganda - Amolatar
+2022-12-04 22:00:25,872 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:25,872 - INFO - sql connection closed
+2022-12-04 22:00:27,285 - INFO - Data inserted UGA - Uganda - Amuria
+2022-12-04 22:00:27,286 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:27,286 - INFO - sql connection closed
+2022-12-04 22:00:28,079 - INFO - Data inserted UGA - Uganda - Arua
+2022-12-04 22:00:28,080 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:28,080 - INFO - sql connection closed
+2022-12-04 22:00:28,928 - INFO - Data inserted UGA - Uganda - Bukwo
+2022-12-04 22:00:28,929 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:28,929 - INFO - sql connection closed
+2022-12-04 22:00:29,616 - INFO - Data inserted UGA - Uganda - Butaleja
+2022-12-04 22:00:29,617 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:29,617 - INFO - sql connection closed
+2022-12-04 22:00:31,020 - INFO - Data inserted UGA - Uganda - Ibanda
+2022-12-04 22:00:31,021 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:31,021 - INFO - sql connection closed
+2022-12-04 22:00:31,688 - INFO - Data inserted UGA - Uganda - Isingiro
+2022-12-04 22:00:31,688 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:31,688 - INFO - sql connection closed
+2022-12-04 22:00:32,339 - INFO - Data inserted UGA - Uganda - Kaabong
+2022-12-04 22:00:32,340 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:32,340 - INFO - sql connection closed
+2022-12-04 22:00:32,988 - INFO - Data inserted UGA - Uganda - Kaliro
+2022-12-04 22:00:32,988 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:32,988 - INFO - sql connection closed
+2022-12-04 22:00:34,385 - INFO - Data inserted UGA - Uganda - Kamuli
+2022-12-04 22:00:34,385 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:34,385 - INFO - sql connection closed
+2022-12-04 22:00:35,034 - INFO - Data inserted UGA - Uganda - Kapchorwa
+2022-12-04 22:00:35,035 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:35,035 - INFO - sql connection closed
+2022-12-04 22:00:35,733 - INFO - Data inserted UGA - Uganda - Katakwi
+2022-12-04 22:00:35,733 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:35,734 - INFO - sql connection closed
+2022-12-04 22:00:36,444 - INFO - Data inserted UGA - Uganda - Kiruhura
+2022-12-04 22:00:36,444 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:36,445 - INFO - sql connection closed
+2022-12-04 22:00:37,088 - INFO - Data inserted UGA - Uganda - Koboko
+2022-12-04 22:00:37,089 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:37,089 - INFO - sql connection closed
+2022-12-04 22:00:37,742 - INFO - Data inserted UGA - Uganda - Kotido
+2022-12-04 22:00:37,743 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:37,743 - INFO - sql connection closed
+2022-12-04 22:00:38,388 - INFO - Data inserted UGA - Uganda - Lira
+2022-12-04 22:00:38,389 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:38,389 - INFO - sql connection closed
+2022-12-04 22:00:39,034 - INFO - Data inserted UGA - Uganda - Luwero
+2022-12-04 22:00:39,035 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:39,035 - INFO - sql connection closed
+2022-12-04 22:00:39,931 - INFO - Data inserted UGA - Uganda - Manafwa
+2022-12-04 22:00:39,931 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:39,932 - INFO - sql connection closed
+2022-12-04 22:00:42,098 - INFO - Data inserted UGA - Uganda - Mbale
+2022-12-04 22:00:42,098 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:42,099 - INFO - sql connection closed
+2022-12-04 22:00:42,746 - INFO - Data inserted UGA - Uganda - Mbarara
+2022-12-04 22:00:42,747 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:42,747 - INFO - sql connection closed
+2022-12-04 22:00:43,491 - INFO - Data inserted UGA - Uganda - Mityana
+2022-12-04 22:00:43,492 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:43,492 - INFO - sql connection closed
+2022-12-04 22:00:44,118 - INFO - Data inserted UGA - Uganda - Mubende
+2022-12-04 22:00:44,119 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:44,119 - INFO - sql connection closed
+2022-12-04 22:00:44,882 - INFO - Data inserted UGA - Uganda - Nakaseke
+2022-12-04 22:00:44,882 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:44,882 - INFO - sql connection closed
+2022-12-04 22:00:45,689 - INFO - Data inserted UGA - Uganda - Tororo
+2022-12-04 22:00:45,690 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:45,690 - INFO - sql connection closed
+2022-12-04 22:00:47,234 - INFO - Data inserted NER - Niger - Agadez
+2022-12-04 22:00:47,234 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:47,235 - INFO - sql connection closed
+2022-12-04 22:00:47,956 - INFO - Data inserted NER - Niger - Diffa
+2022-12-04 22:00:47,957 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:47,957 - INFO - sql connection closed
+2022-12-04 22:00:48,598 - INFO - Data inserted NER - Niger - Dosso
+2022-12-04 22:00:48,599 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:48,599 - INFO - sql connection closed
+2022-12-04 22:00:49,307 - INFO - Data inserted NER - Niger - Maradi
+2022-12-04 22:00:49,307 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:49,308 - INFO - sql connection closed
+2022-12-04 22:00:50,133 - INFO - Data inserted NER - Niger - Niamey
+2022-12-04 22:00:50,134 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:50,134 - INFO - sql connection closed
+2022-12-04 22:00:50,951 - INFO - Data inserted NER - Niger - Tahoua
+2022-12-04 22:00:50,951 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:50,951 - INFO - sql connection closed
+2022-12-04 22:00:52,774 - INFO - Data inserted NER - Niger - Tillaberi
+2022-12-04 22:00:52,774 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:52,775 - INFO - sql connection closed
+2022-12-04 22:00:53,426 - INFO - Data inserted NER - Niger - Zinder
+2022-12-04 22:00:53,426 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:53,426 - INFO - sql connection closed
+2022-12-04 22:00:54,814 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:54,814 - INFO - sql connection closed
+2022-12-04 22:00:55,665 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:55,665 - INFO - sql connection closed
+2022-12-04 22:00:56,393 - INFO - Data inserted SLV - El Salvador - Chalatenango
+2022-12-04 22:00:56,393 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:56,394 - INFO - sql connection closed
+2022-12-04 22:00:57,275 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:57,275 - INFO - sql connection closed
+2022-12-04 22:00:57,992 - INFO - Data inserted SLV - El Salvador - La Libertad
+2022-12-04 22:00:57,993 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:57,993 - INFO - sql connection closed
+2022-12-04 22:00:59,107 - INFO - Data inserted SLV - El Salvador - La Paz
+2022-12-04 22:00:59,107 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:59,108 - INFO - sql connection closed
+2022-12-04 22:00:59,762 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:00:59,762 - INFO - sql connection closed
+2022-12-04 22:01:00,406 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:00,407 - INFO - sql connection closed
+2022-12-04 22:01:01,126 - INFO - Data inserted SLV - El Salvador - San Miguel
+2022-12-04 22:01:01,126 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:01,126 - INFO - sql connection closed
+2022-12-04 22:01:01,774 - INFO - Data inserted SLV - El Salvador - San Salvador
+2022-12-04 22:01:01,774 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:01,774 - INFO - sql connection closed
+2022-12-04 22:01:04,879 - INFO - Data inserted SLV - El Salvador - San Vicente
+2022-12-04 22:01:04,880 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:04,880 - INFO - sql connection closed
+2022-12-04 22:01:05,521 - INFO - Data inserted SLV - El Salvador - Santa Ana
+2022-12-04 22:01:05,521 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:05,522 - INFO - sql connection closed
+2022-12-04 22:01:06,339 - INFO - Data inserted SLV - El Salvador - Sonsonate
+2022-12-04 22:01:06,340 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:06,340 - INFO - sql connection closed
+2022-12-04 22:01:07,040 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:07,042 - INFO - sql connection closed
+2022-12-04 22:01:08,460 - INFO - Data inserted IDN - Indonesia - ACEH
+2022-12-04 22:01:08,461 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:08,461 - INFO - sql connection closed
+2022-12-04 22:01:09,114 - INFO - Data inserted IDN - Indonesia - BALI
+2022-12-04 22:01:09,114 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:09,114 - INFO - sql connection closed
+2022-12-04 22:01:09,742 - INFO - Data inserted IDN - Indonesia - BANTEN
+2022-12-04 22:01:09,742 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:09,742 - INFO - sql connection closed
+2022-12-04 22:01:10,379 - INFO - Data inserted IDN - Indonesia - BENGKULU
+2022-12-04 22:01:10,379 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:10,379 - INFO - sql connection closed
+2022-12-04 22:01:11,039 - INFO - Data inserted IDN - Indonesia - DAERAH ISTIMEWA YOGYAKARTA
+2022-12-04 22:01:11,039 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:11,039 - INFO - sql connection closed
+2022-12-04 22:01:13,744 - INFO - Data inserted IDN - Indonesia - DKI JAKARTA
+2022-12-04 22:01:13,744 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:13,744 - INFO - sql connection closed
+2022-12-04 22:01:14,391 - INFO - Data inserted IDN - Indonesia - GORONTALO
+2022-12-04 22:01:14,392 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:14,392 - INFO - sql connection closed
+2022-12-04 22:01:15,062 - INFO - Data inserted IDN - Indonesia - JAMBI
+2022-12-04 22:01:15,063 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:15,063 - INFO - sql connection closed
+2022-12-04 22:01:15,997 - INFO - Data inserted IDN - Indonesia - JAWA BARAT
+2022-12-04 22:01:15,997 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:15,997 - INFO - sql connection closed
+2022-12-04 22:01:16,665 - INFO - Data inserted IDN - Indonesia - JAWA TENGAH
+2022-12-04 22:01:16,665 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:16,665 - INFO - sql connection closed
+2022-12-04 22:01:17,541 - INFO - Data inserted IDN - Indonesia - JAWA TIMUR
+2022-12-04 22:01:17,542 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:17,542 - INFO - sql connection closed
+2022-12-04 22:01:18,237 - INFO - Data inserted IDN - Indonesia - KALIMANTAN BARAT
+2022-12-04 22:01:18,238 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:18,238 - INFO - sql connection closed
+2022-12-04 22:01:18,897 - INFO - Data inserted IDN - Indonesia - KALIMANTAN SELATAN
+2022-12-04 22:01:18,898 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:18,898 - INFO - sql connection closed
+2022-12-04 22:01:19,793 - INFO - Data inserted IDN - Indonesia - KALIMANTAN TENGAH
+2022-12-04 22:01:19,794 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:19,794 - INFO - sql connection closed
+2022-12-04 22:01:20,540 - INFO - Data inserted IDN - Indonesia - KALIMANTAN TIMUR
+2022-12-04 22:01:20,540 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:20,541 - INFO - sql connection closed
+2022-12-04 22:01:21,463 - INFO - Data inserted IDN - Indonesia - KALIMANTAN UTARA
+2022-12-04 22:01:21,464 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:21,464 - INFO - sql connection closed
+2022-12-04 22:01:22,100 - INFO - Data inserted IDN - Indonesia - KEPULAUAN BANGKA BELITUNG
+2022-12-04 22:01:22,101 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:22,101 - INFO - sql connection closed
+2022-12-04 22:01:22,742 - INFO - Data inserted IDN - Indonesia - KEPULAUAN RIAU
+2022-12-04 22:01:22,742 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:22,742 - INFO - sql connection closed
+2022-12-04 22:01:23,505 - INFO - Data inserted IDN - Indonesia - LAMPUNG
+2022-12-04 22:01:23,505 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:23,506 - INFO - sql connection closed
+2022-12-04 22:01:24,693 - INFO - Data inserted IDN - Indonesia - MALUKU
+2022-12-04 22:01:24,694 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:24,694 - INFO - sql connection closed
+2022-12-04 22:01:25,455 - INFO - Data inserted IDN - Indonesia - MALUKU UTARA
+2022-12-04 22:01:25,456 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:25,456 - INFO - sql connection closed
+2022-12-04 22:01:26,744 - INFO - Data inserted IDN - Indonesia - NUSA TENGGARA BARAT
+2022-12-04 22:01:26,744 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:26,745 - INFO - sql connection closed
+2022-12-04 22:01:27,373 - INFO - Data inserted IDN - Indonesia - NUSA TENGGARA TIMUR
+2022-12-04 22:01:27,373 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:27,373 - INFO - sql connection closed
+2022-12-04 22:01:28,518 - INFO - Data inserted IDN - Indonesia - PAPUA
+2022-12-04 22:01:28,519 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:28,519 - INFO - sql connection closed
+2022-12-04 22:01:29,162 - INFO - Data inserted IDN - Indonesia - PAPUA BARAT
+2022-12-04 22:01:29,162 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:29,162 - INFO - sql connection closed
+2022-12-04 22:01:30,057 - INFO - Data inserted IDN - Indonesia - RIAU
+2022-12-04 22:01:30,058 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:30,058 - INFO - sql connection closed
+2022-12-04 22:01:30,792 - INFO - Data inserted IDN - Indonesia - SULAWESI BARAT
+2022-12-04 22:01:30,792 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:30,792 - INFO - sql connection closed
+2022-12-04 22:01:31,617 - INFO - Data inserted IDN - Indonesia - SULAWESI SELATAN
+2022-12-04 22:01:31,617 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:31,617 - INFO - sql connection closed
+2022-12-04 22:01:32,286 - INFO - Data inserted IDN - Indonesia - SULAWESI TENGAH
+2022-12-04 22:01:32,286 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:32,286 - INFO - sql connection closed
+2022-12-04 22:01:32,935 - INFO - Data inserted IDN - Indonesia - SULAWESI TENGGARA
+2022-12-04 22:01:32,936 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:32,936 - INFO - sql connection closed
+2022-12-04 22:01:33,619 - INFO - Data inserted IDN - Indonesia - SULAWESI UTARA
+2022-12-04 22:01:33,619 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:33,620 - INFO - sql connection closed
+2022-12-04 22:01:34,752 - INFO - Data inserted IDN - Indonesia - SUMATERA BARAT
+2022-12-04 22:01:34,752 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:34,752 - INFO - sql connection closed
+2022-12-04 22:01:35,660 - INFO - Data inserted IDN - Indonesia - SUMATERA SELATAN
+2022-12-04 22:01:35,661 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:35,661 - INFO - sql connection closed
+2022-12-04 22:01:36,486 - INFO - Data inserted IDN - Indonesia - SUMATERA UTARA
+2022-12-04 22:01:36,486 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:36,487 - INFO - sql connection closed
+2022-12-04 22:01:38,954 - INFO - Data inserted AFG - Afghanistan - Badakhshan
+2022-12-04 22:01:38,955 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:38,955 - INFO - sql connection closed
+2022-12-04 22:01:39,579 - INFO - Data inserted AFG - Afghanistan - Badghis
+2022-12-04 22:01:39,579 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:39,579 - INFO - sql connection closed
+2022-12-04 22:01:40,214 - INFO - Data inserted AFG - Afghanistan - Baghlan
+2022-12-04 22:01:40,215 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:40,215 - INFO - sql connection closed
+2022-12-04 22:01:40,850 - INFO - Data inserted AFG - Afghanistan - Balkh
+2022-12-04 22:01:40,851 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:40,851 - INFO - sql connection closed
+2022-12-04 22:01:41,507 - INFO - Data inserted AFG - Afghanistan - Bamyan
+2022-12-04 22:01:41,507 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:41,508 - INFO - sql connection closed
+2022-12-04 22:01:42,182 - INFO - Data inserted AFG - Afghanistan - Daykundi
+2022-12-04 22:01:42,182 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:42,183 - INFO - sql connection closed
+2022-12-04 22:01:42,974 - INFO - Data inserted AFG - Afghanistan - Farah
+2022-12-04 22:01:42,975 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:42,975 - INFO - sql connection closed
+2022-12-04 22:01:43,812 - INFO - Data inserted AFG - Afghanistan - Faryab
+2022-12-04 22:01:43,813 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:43,813 - INFO - sql connection closed
+2022-12-04 22:01:44,627 - INFO - Data inserted AFG - Afghanistan - Ghazni
+2022-12-04 22:01:44,627 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:44,627 - INFO - sql connection closed
+2022-12-04 22:01:45,942 - INFO - Data inserted AFG - Afghanistan - Ghor
+2022-12-04 22:01:45,943 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:45,943 - INFO - sql connection closed
+2022-12-04 22:01:46,626 - INFO - Data inserted AFG - Afghanistan - Hilmand
+2022-12-04 22:01:46,627 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:46,627 - INFO - sql connection closed
+2022-12-04 22:01:47,273 - INFO - Data inserted AFG - Afghanistan - Hirat
+2022-12-04 22:01:47,274 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:47,274 - INFO - sql connection closed
+2022-12-04 22:01:47,923 - INFO - Data inserted AFG - Afghanistan - Jawzjan
+2022-12-04 22:01:47,923 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:47,924 - INFO - sql connection closed
+2022-12-04 22:01:48,688 - INFO - Data inserted AFG - Afghanistan - Kabul
+2022-12-04 22:01:48,689 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:48,689 - INFO - sql connection closed
+2022-12-04 22:01:50,106 - INFO - Data inserted AFG - Afghanistan - Kandahar
+2022-12-04 22:01:50,107 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:50,107 - INFO - sql connection closed
+2022-12-04 22:01:50,921 - INFO - Data inserted AFG - Afghanistan - Kapisa
+2022-12-04 22:01:50,921 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:50,921 - INFO - sql connection closed
+2022-12-04 22:01:51,622 - INFO - Data inserted AFG - Afghanistan - Khost
+2022-12-04 22:01:51,623 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:51,623 - INFO - sql connection closed
+2022-12-04 22:01:52,313 - INFO - Data inserted AFG - Afghanistan - Kunar
+2022-12-04 22:01:52,313 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:52,313 - INFO - sql connection closed
+2022-12-04 22:01:52,962 - INFO - Data inserted AFG - Afghanistan - Kunduz
+2022-12-04 22:01:52,963 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:52,963 - INFO - sql connection closed
+2022-12-04 22:01:54,188 - INFO - Data inserted AFG - Afghanistan - Laghman
+2022-12-04 22:01:54,188 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:54,188 - INFO - sql connection closed
+2022-12-04 22:01:54,909 - INFO - Data inserted AFG - Afghanistan - Logar
+2022-12-04 22:01:54,910 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:54,910 - INFO - sql connection closed
+2022-12-04 22:01:55,546 - INFO - Data inserted AFG - Afghanistan - Nangarhar
+2022-12-04 22:01:55,547 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:55,547 - INFO - sql connection closed
+2022-12-04 22:01:56,186 - INFO - Data inserted AFG - Afghanistan - Nimroz
+2022-12-04 22:01:56,186 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:56,186 - INFO - sql connection closed
+2022-12-04 22:01:56,841 - INFO - Data inserted AFG - Afghanistan - Nuristan
+2022-12-04 22:01:56,842 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:56,842 - INFO - sql connection closed
+2022-12-04 22:01:58,206 - INFO - Data inserted AFG - Afghanistan - Paktika
+2022-12-04 22:01:58,207 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:58,207 - INFO - sql connection closed
+2022-12-04 22:01:58,906 - INFO - Data inserted AFG - Afghanistan - Paktya
+2022-12-04 22:01:58,907 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:58,907 - INFO - sql connection closed
+2022-12-04 22:01:59,558 - INFO - Data inserted AFG - Afghanistan - Panjsher
+2022-12-04 22:01:59,561 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:01:59,561 - INFO - sql connection closed
+2022-12-04 22:02:00,638 - INFO - Data inserted AFG - Afghanistan - Parwan
+2022-12-04 22:02:00,638 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:00,638 - INFO - sql connection closed
+2022-12-04 22:02:01,318 - INFO - Data inserted AFG - Afghanistan - Samangan
+2022-12-04 22:02:01,318 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:01,319 - INFO - sql connection closed
+2022-12-04 22:02:01,971 - INFO - Data inserted AFG - Afghanistan - Sar-e-Pul
+2022-12-04 22:02:01,971 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:01,971 - INFO - sql connection closed
+2022-12-04 22:02:02,643 - INFO - Data inserted AFG - Afghanistan - Takhar
+2022-12-04 22:02:02,643 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:02,643 - INFO - sql connection closed
+2022-12-04 22:02:03,305 - INFO - Data inserted AFG - Afghanistan - Uruzgan
+2022-12-04 22:02:03,306 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:03,306 - INFO - sql connection closed
+2022-12-04 22:02:04,023 - INFO - Data inserted AFG - Afghanistan - Wardak
+2022-12-04 22:02:04,024 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:04,024 - INFO - sql connection closed
+2022-12-04 22:02:04,667 - INFO - Data inserted AFG - Afghanistan - Zabul
+2022-12-04 22:02:04,667 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:04,667 - INFO - sql connection closed
+2022-12-04 22:02:06,649 - INFO - Data inserted IND - India - Andaman and Nicobar
+2022-12-04 22:02:06,650 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:06,650 - INFO - sql connection closed
+2022-12-04 22:02:07,291 - INFO - Data inserted IND - India - Assam
+2022-12-04 22:02:07,291 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:07,291 - INFO - sql connection closed
+2022-12-04 22:02:07,923 - INFO - Data inserted IND - India - Bihar
+2022-12-04 22:02:07,923 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:07,923 - INFO - sql connection closed
+2022-12-04 22:02:08,571 - INFO - Data inserted IND - India - Delhi
+2022-12-04 22:02:08,571 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:08,571 - INFO - sql connection closed
+2022-12-04 22:02:09,257 - INFO - Data inserted IND - India - Goa
+2022-12-04 22:02:09,257 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:09,257 - INFO - sql connection closed
+2022-12-04 22:02:09,922 - INFO - Data inserted IND - India - Gujarat
+2022-12-04 22:02:09,922 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:09,922 - INFO - sql connection closed
+2022-12-04 22:02:10,570 - INFO - Data inserted IND - India - Haryana
+2022-12-04 22:02:10,570 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:10,570 - INFO - sql connection closed
+2022-12-04 22:02:11,254 - INFO - Data inserted IND - India - Himachal Pradesh
+2022-12-04 22:02:11,255 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:11,255 - INFO - sql connection closed
+2022-12-04 22:02:11,920 - INFO - Data inserted IND - India - Karnataka
+2022-12-04 22:02:11,920 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:11,921 - INFO - sql connection closed
+2022-12-04 22:02:13,086 - INFO - Data inserted IND - India - Kerala
+2022-12-04 22:02:13,087 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:13,087 - INFO - sql connection closed
+2022-12-04 22:02:13,727 - INFO - Data inserted IND - India - Lakshadweep
+2022-12-04 22:02:13,727 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:13,727 - INFO - sql connection closed
+2022-12-04 22:02:14,502 - INFO - Data inserted IND - India - Madhya Pradesh
+2022-12-04 22:02:14,502 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:14,502 - INFO - sql connection closed
+2022-12-04 22:02:15,154 - INFO - Data inserted IND - India - Maharashtra
+2022-12-04 22:02:15,155 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:15,155 - INFO - sql connection closed
+2022-12-04 22:02:15,851 - INFO - Data inserted IND - India - Manipur
+2022-12-04 22:02:15,851 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:15,852 - INFO - sql connection closed
+2022-12-04 22:02:16,693 - INFO - Data inserted IND - India - Meghalaya
+2022-12-04 22:02:16,693 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:16,694 - INFO - sql connection closed
+2022-12-04 22:02:17,497 - INFO - Data inserted IND - India - Mizoram
+2022-12-04 22:02:17,498 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:17,498 - INFO - sql connection closed
+2022-12-04 22:02:18,276 - INFO - Data inserted IND - India - Nagaland
+2022-12-04 22:02:18,277 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:18,277 - INFO - sql connection closed
+2022-12-04 22:02:19,089 - INFO - Data inserted IND - India - Orissa
+2022-12-04 22:02:19,090 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:19,091 - INFO - sql connection closed
+2022-12-04 22:02:19,749 - INFO - Data inserted IND - India - Punjab
+2022-12-04 22:02:19,749 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:19,749 - INFO - sql connection closed
+2022-12-04 22:02:20,531 - INFO - Data inserted IND - India - Rajasthan
+2022-12-04 22:02:20,532 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:20,533 - INFO - sql connection closed
+2022-12-04 22:02:21,376 - INFO - Data inserted IND - India - Sikkim
+2022-12-04 22:02:21,377 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:21,378 - INFO - sql connection closed
+2022-12-04 22:02:22,055 - INFO - Data inserted IND - India - Tamil Nadu
+2022-12-04 22:02:22,056 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:22,056 - INFO - sql connection closed
+2022-12-04 22:02:22,794 - INFO - Data inserted IND - India - Tripura
+2022-12-04 22:02:22,794 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:22,795 - INFO - sql connection closed
+2022-12-04 22:02:23,449 - INFO - Data inserted IND - India - Uttar Pradesh
+2022-12-04 22:02:23,449 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:23,449 - INFO - sql connection closed
+2022-12-04 22:02:24,330 - INFO - Data inserted IND - India - West Bengal
+2022-12-04 22:02:24,331 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:24,331 - INFO - sql connection closed
+2022-12-04 22:02:25,021 - INFO - Data inserted IND - India - Chandigarh
+2022-12-04 22:02:25,021 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:25,021 - INFO - sql connection closed
+2022-12-04 22:02:25,692 - INFO - Data inserted IND - India - Chhattisgarh
+2022-12-04 22:02:25,693 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:25,693 - INFO - sql connection closed
+2022-12-04 22:02:26,553 - INFO - Data inserted IND - India - Dadra and Nagar Haveli
+2022-12-04 22:02:26,553 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:26,554 - INFO - sql connection closed
+2022-12-04 22:02:27,227 - INFO - Data inserted IND - India - Daman and Diu
+2022-12-04 22:02:27,228 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:27,228 - INFO - sql connection closed
+2022-12-04 22:02:28,440 - INFO - Data inserted IND - India - Jharkhand
+2022-12-04 22:02:28,440 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:28,441 - INFO - sql connection closed
+2022-12-04 22:02:29,112 - INFO - Data inserted IND - India - Puducherry
+2022-12-04 22:02:29,112 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:29,112 - INFO - sql connection closed
+2022-12-04 22:02:30,041 - INFO - Data inserted IND - India - Uttarakhand
+2022-12-04 22:02:30,042 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:30,042 - INFO - sql connection closed
+2022-12-04 22:02:31,219 - INFO - Data inserted IND - India - Andhra Pradesh
+2022-12-04 22:02:31,220 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:31,220 - INFO - sql connection closed
+2022-12-04 22:02:31,875 - INFO - Data inserted IND - India - Telangana
+2022-12-04 22:02:31,876 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:31,876 - INFO - sql connection closed
+2022-12-04 22:02:33,254 - INFO - Data inserted SEN - Senegal - Kaolack
+2022-12-04 22:02:33,255 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:33,255 - INFO - sql connection closed
+2022-12-04 22:02:33,881 - INFO - Data inserted SEN - Senegal - Kedougou
+2022-12-04 22:02:33,881 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:33,881 - INFO - sql connection closed
+2022-12-04 22:02:34,550 - INFO - Data inserted SEN - Senegal - Kolda
+2022-12-04 22:02:34,550 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:34,550 - INFO - sql connection closed
+2022-12-04 22:02:35,389 - INFO - Data inserted SEN - Senegal - Matam
+2022-12-04 22:02:35,389 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:35,389 - INFO - sql connection closed
+2022-12-04 22:02:36,815 - INFO - Data inserted SEN - Senegal - Tambacounda
+2022-12-04 22:02:36,816 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:36,816 - INFO - sql connection closed
+2022-12-04 22:02:37,943 - INFO - Data inserted SEN - Senegal - Thies
+2022-12-04 22:02:37,944 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:37,945 - INFO - sql connection closed
+2022-12-04 22:02:38,697 - INFO - Data inserted SEN - Senegal - Ziguinchor
+2022-12-04 22:02:38,697 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:38,698 - INFO - sql connection closed
+2022-12-04 22:02:39,323 - INFO - Data inserted SEN - Senegal - Saint Louis
+2022-12-04 22:02:39,323 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:39,324 - INFO - sql connection closed
+2022-12-04 22:02:39,972 - INFO - Data inserted SEN - Senegal - Dakar
+2022-12-04 22:02:39,973 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:39,973 - INFO - sql connection closed
+2022-12-04 22:02:40,752 - INFO - Data inserted SEN - Senegal - Fatick
+2022-12-04 22:02:40,753 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:40,753 - INFO - sql connection closed
+2022-12-04 22:02:41,389 - INFO - Data inserted SEN - Senegal - Diourbel
+2022-12-04 22:02:41,390 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:41,390 - INFO - sql connection closed
+2022-12-04 22:02:42,166 - INFO - Data inserted SEN - Senegal - Kaffrine
+2022-12-04 22:02:42,167 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:42,167 - INFO - sql connection closed
+2022-12-04 22:02:42,811 - INFO - Data inserted SEN - Senegal - Louga
+2022-12-04 22:02:42,811 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:42,812 - INFO - sql connection closed
+2022-12-04 22:02:43,535 - INFO - Data inserted SEN - Senegal - Sedhiou
+2022-12-04 22:02:43,536 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:43,536 - INFO - sql connection closed
+2022-12-04 22:02:46,529 - INFO - Data inserted LBN - Lebanon - Bekaa
+2022-12-04 22:02:46,530 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:46,530 - INFO - sql connection closed
+2022-12-04 22:02:47,180 - INFO - Data inserted LBN - Lebanon - Baalbek-El Hermel
+2022-12-04 22:02:47,180 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:47,180 - INFO - sql connection closed
+2022-12-04 22:02:47,884 - INFO - Data inserted LBN - Lebanon - Beirut
+2022-12-04 22:02:47,885 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:47,885 - INFO - sql connection closed
+2022-12-04 22:02:48,546 - INFO - Data inserted LBN - Lebanon - North
+2022-12-04 22:02:48,547 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:48,547 - INFO - sql connection closed
+2022-12-04 22:02:49,950 - INFO - Data inserted LBN - Lebanon - Akkar
+2022-12-04 22:02:49,950 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:49,950 - INFO - sql connection closed
+2022-12-04 22:02:50,688 - INFO - Data inserted LBN - Lebanon - South
+2022-12-04 22:02:50,688 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:50,689 - INFO - sql connection closed
+2022-12-04 22:02:51,333 - INFO - Data inserted LBN - Lebanon - Mount Lebanon
+2022-12-04 22:02:51,334 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:51,334 - INFO - sql connection closed
+2022-12-04 22:02:52,012 - INFO - Data inserted LBN - Lebanon - El Nabatieh
+2022-12-04 22:02:52,013 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:52,013 - INFO - sql connection closed
+2022-12-04 22:02:54,221 - INFO - Data inserted CPV - Cabo Verde - Boa Vista
+2022-12-04 22:02:54,222 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:54,222 - INFO - sql connection closed
+2022-12-04 22:02:55,091 - INFO - Data inserted CPV - Cabo Verde - Brava
+2022-12-04 22:02:55,091 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:55,091 - INFO - sql connection closed
+2022-12-04 22:02:55,759 - INFO - Data inserted CPV - Cabo Verde - Cima
+2022-12-04 22:02:55,759 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:55,759 - INFO - sql connection closed
+2022-12-04 22:02:56,406 - INFO - Data inserted CPV - Cabo Verde - Fogo
+2022-12-04 22:02:56,406 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:56,407 - INFO - sql connection closed
+2022-12-04 22:02:57,064 - INFO - Data inserted CPV - Cabo Verde - Ilheu Branco
+2022-12-04 22:02:57,064 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:57,064 - INFO - sql connection closed
+2022-12-04 22:02:57,863 - INFO - Data inserted CPV - Cabo Verde - Ilheu Raso
+2022-12-04 22:02:57,864 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:02:57,864 - INFO - sql connection closed
+2022-12-04 22:03:00,595 - INFO - Data inserted CPV - Cabo Verde - Maio
+2022-12-04 22:03:00,596 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:00,596 - INFO - sql connection closed
+2022-12-04 22:03:01,426 - INFO - Data inserted CPV - Cabo Verde - Rombo
+2022-12-04 22:03:01,427 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:01,427 - INFO - sql connection closed
+2022-12-04 22:03:02,206 - INFO - Data inserted CPV - Cabo Verde - Sal
+2022-12-04 22:03:02,207 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:02,207 - INFO - sql connection closed
+2022-12-04 22:03:02,873 - INFO - Data inserted CPV - Cabo Verde - Santa Luzia
+2022-12-04 22:03:02,873 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:02,873 - INFO - sql connection closed
+2022-12-04 22:03:03,619 - INFO - Data inserted CPV - Cabo Verde - Santiago
+2022-12-04 22:03:03,619 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:03,619 - INFO - sql connection closed
+2022-12-04 22:03:04,460 - INFO - Data inserted CPV - Cabo Verde - Santo Antao
+2022-12-04 22:03:04,461 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:04,461 - INFO - sql connection closed
+2022-12-04 22:03:06,282 - INFO - Data inserted CPV - Cabo Verde - Sao Nicolau
+2022-12-04 22:03:06,283 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:06,283 - INFO - sql connection closed
+2022-12-04 22:03:09,303 - INFO - Data inserted CPV - Cabo Verde - Sao Vicente
+2022-12-04 22:03:09,304 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:09,304 - INFO - sql connection closed
+2022-12-04 22:03:11,758 - INFO - Data inserted CUB - Cuba - Camagüey
+2022-12-04 22:03:11,759 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:11,759 - INFO - sql connection closed
+2022-12-04 22:03:12,616 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:12,616 - INFO - sql connection closed
+2022-12-04 22:03:13,345 - INFO - Data inserted CUB - Cuba - Cienfuegos
+2022-12-04 22:03:13,346 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:13,346 - INFO - sql connection closed
+2022-12-04 22:03:14,227 - INFO - Data inserted CUB - Cuba - Ciudad de la Habana
+2022-12-04 22:03:14,228 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:14,228 - INFO - sql connection closed
+2022-12-04 22:03:15,038 - INFO - Data inserted CUB - Cuba - Granma
+2022-12-04 22:03:15,039 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:15,039 - INFO - sql connection closed
+2022-12-04 22:03:15,874 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:15,875 - INFO - sql connection closed
+2022-12-04 22:03:19,005 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:19,005 - INFO - sql connection closed
+2022-12-04 22:03:19,654 - INFO - Data inserted CUB - Cuba - Isla de la Juventud
+2022-12-04 22:03:19,654 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:19,655 - INFO - sql connection closed
+2022-12-04 22:03:20,296 - INFO - Data inserted CUB - Cuba - La Habana
+2022-12-04 22:03:20,297 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:20,297 - INFO - sql connection closed
+2022-12-04 22:03:20,938 - INFO - Data inserted CUB - Cuba - Las Tunas
+2022-12-04 22:03:20,938 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:20,939 - INFO - sql connection closed
+2022-12-04 22:03:21,851 - INFO - Data inserted CUB - Cuba - Matanzas
+2022-12-04 22:03:21,852 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:21,852 - INFO - sql connection closed
+2022-12-04 22:03:22,635 - INFO - Data inserted CUB - Cuba - Mayabeque
+2022-12-04 22:03:22,636 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:22,636 - INFO - sql connection closed
+2022-12-04 22:03:23,469 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:23,469 - INFO - sql connection closed
+2022-12-04 22:03:24,645 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:24,645 - INFO - sql connection closed
+2022-12-04 22:03:25,283 - INFO - Data inserted CUB - Cuba - Santiago de Cuba
+2022-12-04 22:03:25,284 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:25,284 - INFO - sql connection closed
+2022-12-04 22:03:26,416 - INFO - Data inserted CUB - Cuba - Villa Clara
+2022-12-04 22:03:26,417 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:26,417 - INFO - sql connection closed
+2022-12-04 22:03:29,042 - INFO - Data inserted PER - Peru - AMAZONAS
+2022-12-04 22:03:29,042 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:29,043 - INFO - sql connection closed
+2022-12-04 22:03:29,695 - INFO - Data inserted PER - Peru - ANCASH
+2022-12-04 22:03:29,695 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:29,696 - INFO - sql connection closed
+2022-12-04 22:03:30,505 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:30,505 - INFO - sql connection closed
+2022-12-04 22:03:31,136 - INFO - Data inserted PER - Peru - AREQUIPA
+2022-12-04 22:03:31,137 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:31,137 - INFO - sql connection closed
+2022-12-04 22:03:31,788 - INFO - Data inserted PER - Peru - AYACUCHO
+2022-12-04 22:03:31,788 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:31,788 - INFO - sql connection closed
+2022-12-04 22:03:32,626 - INFO - Data inserted PER - Peru - CAJAMARCA
+2022-12-04 22:03:32,627 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:32,627 - INFO - sql connection closed
+2022-12-04 22:03:33,308 - INFO - Data inserted PER - Peru - CUSCO
+2022-12-04 22:03:33,308 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:33,308 - INFO - sql connection closed
+2022-12-04 22:03:34,920 - INFO - Data inserted PER - Peru - HUANCAVELICA
+2022-12-04 22:03:34,920 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:34,920 - INFO - sql connection closed
+2022-12-04 22:03:36,064 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:36,064 - INFO - sql connection closed
+2022-12-04 22:03:36,789 - INFO - Data inserted PER - Peru - ICA
+2022-12-04 22:03:36,789 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:36,789 - INFO - sql connection closed
+2022-12-04 22:03:37,489 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:37,489 - INFO - sql connection closed
+2022-12-04 22:03:38,132 - INFO - Data inserted PER - Peru - LA LIBERTAD
+2022-12-04 22:03:38,132 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:38,133 - INFO - sql connection closed
+2022-12-04 22:03:39,317 - INFO - Data inserted PER - Peru - LAMBAYEQUE
+2022-12-04 22:03:39,318 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:39,318 - INFO - sql connection closed
+2022-12-04 22:03:40,137 - INFO - Data inserted PER - Peru - LIMA
+2022-12-04 22:03:40,138 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:40,138 - INFO - sql connection closed
+2022-12-04 22:03:42,467 - INFO - Data inserted PER - Peru - LORETO
+2022-12-04 22:03:42,468 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:42,468 - INFO - sql connection closed
+2022-12-04 22:03:43,311 - INFO - Data inserted PER - Peru - MADRE DE DIOS
+2022-12-04 22:03:43,312 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:43,312 - INFO - sql connection closed
+2022-12-04 22:03:44,177 - INFO - Data inserted PER - Peru - MOQUEGUA
+2022-12-04 22:03:44,178 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:44,178 - INFO - sql connection closed
+2022-12-04 22:03:45,013 - INFO - Data inserted PER - Peru - PASCO
+2022-12-04 22:03:45,014 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:45,014 - INFO - sql connection closed
+2022-12-04 22:03:46,805 - INFO - Data inserted PER - Peru - PIURA
+2022-12-04 22:03:46,806 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:46,806 - INFO - sql connection closed
+2022-12-04 22:03:47,656 - INFO - Data inserted PER - Peru - PROVINCIA CONSTITUCIONAL
+2022-12-04 22:03:47,657 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:47,657 - INFO - sql connection closed
+2022-12-04 22:03:48,798 - INFO - Data inserted PER - Peru - PUNO
+2022-12-04 22:03:48,799 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:48,799 - INFO - sql connection closed
+2022-12-04 22:03:49,443 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:49,443 - INFO - sql connection closed
+2022-12-04 22:03:50,585 - INFO - Data inserted PER - Peru - TACNA
+2022-12-04 22:03:50,585 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:50,586 - INFO - sql connection closed
+2022-12-04 22:03:51,243 - INFO - Data inserted PER - Peru - TUMBES
+2022-12-04 22:03:51,244 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:51,244 - INFO - sql connection closed
+2022-12-04 22:03:52,086 - INFO - Data inserted PER - Peru - UCAYALI
+2022-12-04 22:03:52,086 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:52,086 - INFO - sql connection closed
+2022-12-04 22:03:53,516 - INFO - Data inserted KHM - Cambodia - Banteay Meanchey
+2022-12-04 22:03:53,516 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:53,516 - INFO - sql connection closed
+2022-12-04 22:03:54,350 - INFO - Data inserted KHM - Cambodia - Battambang
+2022-12-04 22:03:54,351 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:54,351 - INFO - sql connection closed
+2022-12-04 22:03:55,032 - INFO - Data inserted KHM - Cambodia - Kampong Cham
+2022-12-04 22:03:55,033 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:55,033 - INFO - sql connection closed
+2022-12-04 22:03:55,835 - INFO - Data inserted KHM - Cambodia - Kampong Chhnang
+2022-12-04 22:03:55,837 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:55,837 - INFO - sql connection closed
+2022-12-04 22:03:56,666 - INFO - Data inserted KHM - Cambodia - Kampong Speu
+2022-12-04 22:03:56,666 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:56,666 - INFO - sql connection closed
+2022-12-04 22:03:57,387 - INFO - Data inserted KHM - Cambodia - Kampong Thom
+2022-12-04 22:03:57,387 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:57,387 - INFO - sql connection closed
+2022-12-04 22:03:58,012 - INFO - Data inserted KHM - Cambodia - Kampot
+2022-12-04 22:03:58,012 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:58,012 - INFO - sql connection closed
+2022-12-04 22:03:58,648 - INFO - Data inserted KHM - Cambodia - Kandal
+2022-12-04 22:03:58,649 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:58,649 - INFO - sql connection closed
+2022-12-04 22:03:59,305 - INFO - Data inserted KHM - Cambodia - Kep
+2022-12-04 22:03:59,305 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:03:59,305 - INFO - sql connection closed
+2022-12-04 22:04:00,002 - INFO - Data inserted KHM - Cambodia - Koh Kong
+2022-12-04 22:04:00,002 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:00,002 - INFO - sql connection closed
+2022-12-04 22:04:00,661 - INFO - Data inserted KHM - Cambodia - Kratie
+2022-12-04 22:04:00,661 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:00,661 - INFO - sql connection closed
+2022-12-04 22:04:01,938 - INFO - Data inserted KHM - Cambodia - Mondul Kiri
+2022-12-04 22:04:01,938 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:01,938 - INFO - sql connection closed
+2022-12-04 22:04:02,587 - INFO - Data inserted KHM - Cambodia - Oddar Meanchey
+2022-12-04 22:04:02,587 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:02,587 - INFO - sql connection closed
+2022-12-04 22:04:03,315 - INFO - Data inserted KHM - Cambodia - Pailin
+2022-12-04 22:04:03,316 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:03,316 - INFO - sql connection closed
+2022-12-04 22:04:05,209 - INFO - Data inserted KHM - Cambodia - Phnom Penh
+2022-12-04 22:04:05,210 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:05,210 - INFO - sql connection closed
+2022-12-04 22:04:06,654 - INFO - Data inserted KHM - Cambodia - Preah Sihanouk
+2022-12-04 22:04:06,654 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:06,654 - INFO - sql connection closed
+2022-12-04 22:04:07,500 - INFO - Data inserted KHM - Cambodia - Preah Vihear
+2022-12-04 22:04:07,501 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:07,501 - INFO - sql connection closed
+2022-12-04 22:04:08,340 - INFO - Data inserted KHM - Cambodia - Prey Veng
+2022-12-04 22:04:08,340 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:08,340 - INFO - sql connection closed
+2022-12-04 22:04:09,176 - INFO - Data inserted KHM - Cambodia - Pursat
+2022-12-04 22:04:09,177 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:09,178 - INFO - sql connection closed
+2022-12-04 22:04:10,030 - INFO - Data inserted KHM - Cambodia - Ratanak Kiri
+2022-12-04 22:04:10,030 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:10,031 - INFO - sql connection closed
+2022-12-04 22:04:10,796 - INFO - Data inserted KHM - Cambodia - Siemreap
+2022-12-04 22:04:10,797 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:10,797 - INFO - sql connection closed
+2022-12-04 22:04:11,524 - INFO - Data inserted KHM - Cambodia - Stung Treng
+2022-12-04 22:04:11,524 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:11,524 - INFO - sql connection closed
+2022-12-04 22:04:12,276 - INFO - Data inserted KHM - Cambodia - Svay Rieng
+2022-12-04 22:04:12,276 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:12,276 - INFO - sql connection closed
+2022-12-04 22:04:13,126 - INFO - Data inserted KHM - Cambodia - Takeo
+2022-12-04 22:04:13,127 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:13,127 - INFO - sql connection closed
+2022-12-04 22:04:13,833 - INFO - Data inserted KHM - Cambodia - Tboung Khmum
+2022-12-04 22:04:13,833 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:13,833 - INFO - sql connection closed
+2022-12-04 22:04:16,021 - INFO - Data inserted MMR - Myanmar - Ayeyarwady
+2022-12-04 22:04:16,022 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:16,022 - INFO - sql connection closed
+2022-12-04 22:04:16,869 - INFO - Data inserted MMR - Myanmar - Bago (East)
+2022-12-04 22:04:16,870 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:16,871 - INFO - sql connection closed
+2022-12-04 22:04:17,559 - INFO - Data inserted MMR - Myanmar - Bago (West)
+2022-12-04 22:04:17,560 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:17,560 - INFO - sql connection closed
+2022-12-04 22:04:18,218 - INFO - Data inserted MMR - Myanmar - Chin
+2022-12-04 22:04:18,219 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:18,219 - INFO - sql connection closed
+2022-12-04 22:04:20,970 - INFO - Data inserted MMR - Myanmar - Kachin
+2022-12-04 22:04:20,970 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:20,971 - INFO - sql connection closed
+2022-12-04 22:04:21,796 - INFO - Data inserted MMR - Myanmar - Kayah
+2022-12-04 22:04:21,797 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:21,797 - INFO - sql connection closed
+2022-12-04 22:04:22,649 - INFO - Data inserted MMR - Myanmar - Kayin
+2022-12-04 22:04:22,649 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:22,649 - INFO - sql connection closed
+2022-12-04 22:04:23,550 - INFO - Data inserted MMR - Myanmar - Magway
+2022-12-04 22:04:23,551 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:23,551 - INFO - sql connection closed
+2022-12-04 22:04:24,218 - INFO - Data inserted MMR - Myanmar - Mandalay
+2022-12-04 22:04:24,220 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:24,220 - INFO - sql connection closed
+2022-12-04 22:04:25,826 - INFO - Data inserted MMR - Myanmar - Mon
+2022-12-04 22:04:25,827 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:25,827 - INFO - sql connection closed
+2022-12-04 22:04:26,664 - INFO - Data inserted MMR - Myanmar - Nay Pyi Taw
+2022-12-04 22:04:26,664 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:26,664 - INFO - sql connection closed
+2022-12-04 22:04:28,111 - INFO - Data inserted MMR - Myanmar - Rakhine
+2022-12-04 22:04:28,111 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:28,111 - INFO - sql connection closed
+2022-12-04 22:04:28,948 - INFO - Data inserted MMR - Myanmar - Sagaing
+2022-12-04 22:04:28,949 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:28,949 - INFO - sql connection closed
+2022-12-04 22:04:29,619 - INFO - Data inserted MMR - Myanmar - Shan (East)
+2022-12-04 22:04:29,619 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:29,619 - INFO - sql connection closed
+2022-12-04 22:04:30,769 - INFO - Data inserted MMR - Myanmar - Shan (North)
+2022-12-04 22:04:30,770 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:30,770 - INFO - sql connection closed
+2022-12-04 22:04:31,904 - INFO - Data inserted MMR - Myanmar - Shan (South)
+2022-12-04 22:04:31,904 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:31,904 - INFO - sql connection closed
+2022-12-04 22:04:32,540 - INFO - Data inserted MMR - Myanmar - Tanintharyi
+2022-12-04 22:04:32,540 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:32,540 - INFO - sql connection closed
+2022-12-04 22:04:33,341 - INFO - Data inserted MMR - Myanmar - Yangon
+2022-12-04 22:04:33,341 - INFO - DATA has been iserted from 2022-12-01 to 2022-12-01
+2022-12-04 22:04:33,341 - INFO - sql connection closed

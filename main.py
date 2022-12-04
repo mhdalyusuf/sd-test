@@ -60,7 +60,9 @@ finally:
 
 
 for result in myresult:
+    country_name=result[0]
     country=result[2]
+
     endpoint=f"https://api.hungermapdata.org/v1/foodsecurity/country/{country}/region?date_start={startdate}&date_end={enddate}"
     x = requests.get(endpoint)
     formatted=x.json()
@@ -83,15 +85,16 @@ for result in myresult:
             resultdb.connect()
             mycursor = resultdb.cursor()
             val = (country,region_name,rcsi,fcs,cfii)
-            sql = f"INSERT INTO cfii_calculation (country, region,rcsi,fcs,cfii) VALUES ('{country}','{region_name}',{rcsi},{fcs},{cfii})"
+            sql = f"INSERT INTO cfii_calculation (country,country_code, region,rcsi,fcs,cfii) VALUES ('{country_name}','{country}','{region_name}',{rcsi},{fcs},{cfii})"
             print (sql)
             mycursor.execute(sql)
             resultdb.commit()
-            logging.info(f"Data inserted {country} {region_name}")
+            logging.info(f"Data inserted {country} - {country_name} - {region_name}")
 
         except:
             logging.error("sql query failed")
         finally:
             mycursor.close()
             resultdb.close()
+            logging.info(f"DATA has been iserted from {startdate} to {enddate}")    
             logging.info("sql connection closed")    
