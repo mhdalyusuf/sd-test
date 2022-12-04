@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 import requests
 import logging
 import mysql.connector
-import json
 
 load_dotenv()
 
@@ -27,13 +26,10 @@ endpoint=f"https://api.hungermapdata.org/v1/foodsecurity/country/{country}/regio
 #test API connection
 try:
     request = requests.get(endpoint)
-    logging.info("sql connection success")
+    logging.info("API connection OK")
 
 except:
-    logging.error("sql connection failed")
-
-finally:
-    logging.info("sql connection closed")
+    logging.error("API connection failed")
 
 infodb = mysql.connector.connect(
   host=srv,
@@ -62,20 +58,19 @@ except:
 finally:
     logging.info("sql connection closed")
 
-fulldata = ""
-#get countries list to be calculated
-countries_list = []
 
 for result in myresult:
     country=result[2]
     endpoint=f"https://api.hungermapdata.org/v1/foodsecurity/country/{country}/region?date_start={startdate}&date_end={enddate}"
-    # countries_list.append(result[1],"iso3" : result[2]})
     x = requests.get(endpoint)
-    print(endpoint)
     formatted=x.json()
     for region in formatted:
         region_name= region['region']['name']
-        rcsi=region['metrics']['rcsi']['prevalence']
+        try:
+            rcsi=region['metrics']['rcsi']['prevalence']
+        except:
+            rcsi=0
+        
         fcs=region['metrics']['fcs']['prevalence']
         cfii=0
         if fcs>0.5:
@@ -84,9 +79,6 @@ for result in myresult:
             cfii=((0.5*fcs) + (1.5 * rcsi))/2
         else:
             fcs=0
-        
-
-        # print (country,region_name,rcsi,fcs,cfii)
         try:
             resultdb.connect()
             mycursor = resultdb.cursor()
@@ -95,6 +87,8 @@ for result in myresult:
             print (sql)
             mycursor.execute(sql)
             resultdb.commit()
+            logging.info(f"Data inserted {country} {region_name}")
+
         except:
             logging.error("sql query failed")
         finally:
